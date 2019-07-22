@@ -1,0 +1,30 @@
+{
+  "name": "clipboard",
+  "version": "1.0.0",
+  "description": "![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "browserify": "^16.3.0",
+    "jquery": "^3.4.1",
+    "jquery-scrollify": "^1.0.20",
+    "scrollify": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twalkerjr22/clipboard-landing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twalkerjr22/clipboard-landing/issues"
+  },
+  "homepage": "https://github.com/twalkerjr22/clipboard-landing#readme"
+}
